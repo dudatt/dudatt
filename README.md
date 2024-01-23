@@ -42,16 +42,3 @@ Eu sou Maria Eduarda!
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
-###
-
-<h2 align="left">📱 Social Media</h2>
-<img align="right" height="150" src="https://i.pinimg.com/originals/a0/70/7d/a0707d977bccdce919e8a380ca92d139.gif"  />
-
-###
-
-<div align="left">
-  
-  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo">](href="https://www.linkedin.com/in/maria-eduarda-mb-235352266/")  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo">](href="https://discord.com/channels/@me")  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo">](href="https://www.instagram.com/meduarda_y/")
-  
-</div>

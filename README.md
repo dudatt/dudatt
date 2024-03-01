@@ -5,7 +5,6 @@
 
 Eu sou Maria Eduarda!
 - 🏫 Sou estudante de Sistemas de Informação na PUCPR. 
-- 🔭 Estou em busca da minha primeira oportunidade de emprego.
   <details>
   <summary>👩‍💻 Mais sobre mim</summary>
 

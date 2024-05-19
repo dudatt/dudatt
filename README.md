@@ -3,7 +3,7 @@
 
 ###
 
-Eu sou Maria Eduarda!
+Eu sou a Maria Eduarda
 - 🏫 Sou estudante de Sistemas de Informação na PUCPR. 
   <details>
   <summary>👩‍💻 Mais sobre mim</summary>
@@ -40,5 +40,9 @@ Eu sou Maria Eduarda!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="mysql logo"  />
   <img width="20" />
 </div>

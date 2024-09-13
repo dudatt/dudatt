@@ -8,7 +8,7 @@ Eu sou a Maria Eduarda
   <details>
   <summary>👩‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 18 anos e estou cursando o 3° período. Tive meu primeiro contato com a programação no 1° período da faculdade, e desde então venho me apaixonando cada vez mais pela área.
+  - 💬 Tenho 19 anos e estou cursando o 4° período. Tive meu primeiro contato com a programação no 1° período da faculdade, e desde então venho me apaixonando cada vez mais pela área.
     Gosto de estudar tanto o front-end quanto o back-end, mas decidi focar no front por enquanto.
 
   - 🫰 Amo ler livros, meu gênero favorito provavelmente é fantasia, mas também adoro vários outros, e também mnagás, manhwas, etc (mas confesso que tenho preguiça de ler esses 
@@ -39,10 +39,12 @@ Eu sou a Maria Eduarda
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="20" />
 </div>

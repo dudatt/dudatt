@@ -9,8 +9,7 @@ Eu sou a Maria Eduarda, também conhecida como Duda, e para os mais íntimos Tit
 
   - 💬 Tenho 19 anos e estou cursando o 4° período de Sistemas de Informação na PUCPR. Tive meu primeiro contato com a programação no 3° ano do ensino médio, quando um amigo me apresentou o curso de Sistemas de Informação e uma oficina de React da PUCPR, onde a proposta era "programar" uma página de currículo, e estou nessa desde então :)
 
-  - 🫰 Amo ler livros, meu gênero favorito provavelmente é fantasia, mas também adoro vários outros, e também mnagás, manhwas, etc (mas confesso que tenho preguiça de ler esses 
-    últimos). Também amo animes, treinar e passear :) 
+  - 🫰 Amo ler livros, mangás, manhwa e manhua, meu gênero favorito provavelmente é fantasia. Também amo assistir animes, treinar, gatos, cachorros, ouvir música e passear no parque :) 
      
 </details>
 </p>

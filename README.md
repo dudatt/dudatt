@@ -1,7 +1,5 @@
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=F7F7F7&random=false&width=435&lines=Olá!+:)" alt="Typing SVG" /></a></h2>
 
-###
-
 🙋🏽‍♀️ Prazer, me chamo Maria Eduarda! <br>
 🎓 Sou estudante de Sistemas de Informação na PUCPR.
 
